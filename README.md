@@ -12,15 +12,15 @@ I've a big experience in travel systems, including business rules.
 - CSS
   - Less or SASS
 - CI & CD
- - Jenkins, Team City, AWS Pipeline
+  - Jenkins, Team City, AWS Pipeline
 - Rest API
- - AWS Api Gateway, Lambda
+  - AWS Api Gateway, Lambda
 - NoSQL
- - AWS DynamoDB
- - MongoDB
+  - AWS DynamoDB
+  - MongoDB
 - Others
- - AWS
- - Elastic Search
+  - AWS
+  - Elastic Search
  
 My favorite language are, Javascript, C#, PHP, Java.
 
