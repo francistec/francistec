@@ -2,7 +2,7 @@
 ### Hi there 👋
 
 My name is **Francis L. Tec**, currentyly I'm working as **FrontEnd Developer** at the paradise (Cancun, Mexico 🌴)
-I've 12 years of experience in web development, and I teach about some technologies topics in a comunnity called [SlothTech](https://www.slothtech.io/).
+I've 12 years of experience in web development, I teach about some technologies topics in a comunnity called [SlothTech](https://www.slothtech.io/).
 I've a big experience in travel systems, including business rules.
 
 ### My skills
