@@ -1,9 +1,9 @@
 # Francis L. Tec Can @francistec
 ### Hi there 👋
 
-My name is **Francis L. Tec**, currentyly I'm working as **Lead Software Engineer** at [Luxoft](https://www.luxoft.com/). Living in the paradise (Cancun, Mexico 🌴)
-I've 12 years of experience in web development, I teach about some technologies topics in [SlothTech](https://www.slothtech.io/) community.
-I've a lot of experience in travel systems, including business rules.
+My name is **Francis L. Tec**, currentlly I'm working as **Lead Software Engineer** at [Luxoft](https://www.luxoft.com/). Living in the paradise (Cancun, Mexico 🌴)
+I have 12 years of experience in web development, I teach about some technologies topics in [SlothTech](https://www.slothtech.io/) community.
+I have a lot of experience in travel systems, including business rules.
 
 ### My skills
 
@@ -22,7 +22,7 @@ I've a lot of experience in travel systems, including business rules.
   - AWS
   - Elastic Search
  
-My favorite language are, Javascript, C#, PHP, Java.
+My favorites language are Javascript, C#, PHP, Java.
 
 ### Get in touch 
 You can reach me at [me@francistec.io](mailto:me@francistec.io) 📫 or in my [Linkedin Profile](www.linkedin.com/in/francistec)
